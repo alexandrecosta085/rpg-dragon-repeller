@@ -2,6 +2,18 @@ body {
   background-color: #0a0a23;
 }
 
+.title {
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-size: 12px;
+}
+
+#restartButton:hover {
+  color: #c70d0d;
+}
+
 #text {
   background-color: #0a0a23;
   color: #ffffff;
